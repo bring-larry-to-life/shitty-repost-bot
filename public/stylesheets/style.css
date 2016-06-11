@@ -1,0 +1,38 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a.mdl-layout-title {
+  text-decoration:none;
+  color: white;
+}
+
+/*Make the view-source button permanent*/
+
+#view-source {
+  position: fixed;
+  display: block;
+  right: 0;
+  bottom: 0;
+  margin-right: 40px;
+  margin-bottom: 40px;
+  z-index: 900;
+}
+
+/*Job cards*/
+
+.card-job.mdl-card {
+  width: 100%;
+}
+.card-job > .mdl-card__actions {
+  position: absolute;
+  bottom: 0px;
+}
+
+/*Center all cells, and thus cards*/
+
+.mdl-grid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
