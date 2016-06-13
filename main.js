@@ -1,6 +1,7 @@
 var jobs = require('./lib/jobs');
-var repost = require('./lib/reddit');
+var reddit = require('./lib/reddit');
 
-jobs.createDailyRandomlyTimedJob(9, 17, function() {
-	repost.invokeRepost();
+// hourly
+jobs.createJob('0 */3 * * *', function() {
+	reddit.invokeRepost();
 });
