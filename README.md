@@ -1,1 +1,2 @@
 # shitty-repost-bot
+A simple bot that periodically finds the highest-rated Reddit submission from exactly one year ago and reposts it. The goal here is to demonstrate the kind of original content Reddit users produce on a daily basis. 
