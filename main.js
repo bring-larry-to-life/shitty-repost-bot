@@ -8,6 +8,11 @@ jobs.createJob('*/20 * * * *', function() {});
 
 // repost every three hours
 jobs.createJob('0 */3 * * *', function() {
-	logger.log('Job executing at: ' + new Date().toString());
-	reddit.invokeRepost();
+	reddit.invokeRepost(undefined, function(error, postData) {
+		if (error) {
+			logger.error(error, -1, logger.LOG_TYPE.REPOST);
+		} else {
+			logger.log(postData, logger.LOG_TYPE.REPOST);
+		}
+	});
 });

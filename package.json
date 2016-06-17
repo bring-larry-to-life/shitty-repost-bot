@@ -8,6 +8,7 @@
   "dependencies": {
     "cron": "^1.1.0",
     "nodemailer": "^2.4.2",
+    "nodemailer-html-to-text": "^2.1.0",
     "request": "^2.72.0",
     "snoowrap": "^1.2.0"
   }
