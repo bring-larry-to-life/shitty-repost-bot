@@ -18,12 +18,32 @@ _
 |
 | - June 15th, 2016
 |   Banned from /r/todayilearned!
+|   | you're not funny
 |
 | - June 16th, 2016
 |   Finally up and posting 24/7!
+|
+| - June 16th, 2016
 |   Banned from /r/4chan for 30 days!
+|   | >oh durr durr lookatme I posted something a day before it's a year old
+|   | IT'S A LEAP YEAR FUCKER, THAT MEANS IT'S BEEN 365 DAYS
 |
 ∨
+```
+
+## Installation Instructions
+Before running the application you will need to create your own `lib/credentials.js` file. We supplied an example file `credentials.js.example` that is filled with fake values.
+
+Once that is taken care of you can either run the project on your host machine with node or in a docker container:
+```
+# docker
+docker build -t shittyrb .
+docker run -d -v /etc/localtime:/etc/localtime:ro shittyrb
+
+# nodejs
+npm install
+npm install -g forever
+forever start main.js
 ```
 
 ## Fun Docker timezone issue!
