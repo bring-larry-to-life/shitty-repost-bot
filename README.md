@@ -19,6 +19,9 @@ _
 | - June 15th, 2016
 |   Banned from r/todayilearned!
 |
+| - June 16th, 2016
+|   Finally up and posting 24/7!
+|
 ∨
 ```
 

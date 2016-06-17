@@ -6,8 +6,8 @@ var logger = require('./lib/logger');
 // https://github.com/nodejs/node/issues/4262
 jobs.createJob('*/20 * * * *', function() {});
 
-// repost every hour
-jobs.createJob('0 * * * *', function() {
+// repost every three hours
+jobs.createJob('0 */3 * * *', function() {
 	logger.log('Job executing at: ' + new Date().toString());
-	reddit.invokeRepost(reddit.TIMEFRAMES.ONE_HOUR);
+	reddit.invokeRepost();
 });
