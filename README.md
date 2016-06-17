@@ -14,13 +14,14 @@ _
 |   https://www.reddit.com/r/me_irl/comments/4ntbrn/me_irl/
 |
 | - June 13th, 2016
-|   Banned from r/gifs!
+|   Banned from /r/gifs!
 |
 | - June 15th, 2016
-|   Banned from r/todayilearned!
+|   Banned from /r/todayilearned!
 |
 | - June 16th, 2016
 |   Finally up and posting 24/7!
+|   Banned from /r/4chan for 30 days!
 |
 ∨
 ```
