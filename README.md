@@ -47,7 +47,7 @@ forever start main.js
 ```
 
 ## Fun Docker timezone issue!
-Apparently Docker containers are not guarrenteed to have the same timezone as the host machine. Normally this is not an issue, however when dealing with cronjobs this could lead to seemingly eratic behavior. Luckily there is an easy fix, simply share either `/etc/timezone` or `/etc/localtime` with the container as a read-only volume. For projects that use an Alpine base image (such as this project), make sure to share `/etc/localtime` as `/etc/timezone` does not exist. For example:
+Apparently Docker containers are not guaranteed to have the same timezone as the host machine. Normally this is not an issue, however when dealing with cronjobs this could lead to seemingly erratic behavior. Luckily there is an easy fix, simply share either `/etc/timezone` or `/etc/localtime` with the container as a read-only volume. For projects that use an Alpine base image (such as this project), make sure to share `/etc/localtime` as `/etc/timezone` does not exist. For example:
 ```
 docker build -t shittyrb .
 docker run -d -v /etc/localtime:/etc/localtime:ro shittyrb
