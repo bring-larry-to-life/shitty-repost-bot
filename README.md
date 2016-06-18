@@ -28,6 +28,13 @@ _
 |   | >oh durr durr lookatme I posted something a day before it's a year old
 |   | IT'S A LEAP YEAR FUCKER, THAT MEANS IT'S BEEN 365 DAYS
 |
+| - June 17th, 2016
+|   Banned from /r/progresspics!
+|   | unwelcome bot
+| 
+| - June 18th, 2016
+|   Banned from /r/news!
+|
 ∨
 ```
 
