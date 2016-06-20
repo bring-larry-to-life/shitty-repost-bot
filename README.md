@@ -31,9 +31,16 @@ _
 | - June 17th, 2016
 |   Banned from /r/progresspics!
 |   | unwelcome bot
-| 
+|
 | - June 18th, 2016
 |   Banned from /r/news!
+|
+| - June 20th, 2016
+|   Banned from /r/pics!
+|
+| - June 20th, 2016
+|   Banned from /r/funny!
+|   | Serial reposters will be banned
 |
 ∨
 ```
