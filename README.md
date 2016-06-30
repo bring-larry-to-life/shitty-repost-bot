@@ -42,6 +42,32 @@ _
 |   Banned from /r/funny!
 |   | Serial reposters will be banned
 |
+| - June 21st, 2016
+|   Banned from /r/gonewild!
+|
+| - June 22nd, 2016
+|   Banned from /r/creepy!
+|   | Serial reposters will be banned
+|
+| - June 26th, 2016
+|   Banned from /r/WTF!
+|
+| - June 26th, 2016
+|   Banned from /r/worldnews!
+|
+| - June 27th, 2016
+|   Added as an approved submitter to /r/EternityClub: front page posters only!
+|
+| - June 28th, 2016
+|   Banned from /r/aww!
+|
+| - June 29th, 2016
+|   Banned from /r/bestof!
+|
+| - June 29th, 2016
+|   Banned from /r/trashy!
+|   | no bots pls
+|
 ∨
 ```
 
