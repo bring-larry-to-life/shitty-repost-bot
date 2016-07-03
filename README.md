@@ -68,8 +68,31 @@ _
 |   Banned from /r/trashy!
 |   | no bots pls
 |
+| - June 29th, 2016
+|   Banned from /r/nosleep!
+|
+| - June 30th, 2016
+|   Banned from /r/me_irl!
+|   | sorry no one liek yous
+|
+| - July 3rd, 2016
+|   Banned from /r/AdviceAnimals!
+|
+| - July 3rd, 2016
+|   Banned from /r/IAmA!
+|   | Repost novelty / Bot account
+|
+| - July 3rd, 2016
+|   Banned from /r/gaming!
+|   | Bots and novelty accounts are also not allowed in /r/gaming.
+|
+| - July 3rd, 2016
+|   Banned from participating in /r/AskReddit!
+|   
 ∨
 ```
+
+Total number of bans to date: 20
 
 ## Installation Instructions
 Before running the application you will need to create your own `lib/credentials.js` file. We supplied an example file `credentials.js.example` that is filled with fake values.
