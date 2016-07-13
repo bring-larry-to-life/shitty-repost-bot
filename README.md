@@ -9,7 +9,7 @@ _
 |   CIRCLJERK_REPOST_BOT was born!
 |   https://www.reddit.com/user/CIRCLJERK_REPOST_BOT/
 |
-| - June 13th, 2016
+| - June 12th, 2016
 |   First post to break 1,000 karma!
 |   https://www.reddit.com/r/me_irl/comments/4ntbrn/me_irl/
 |
@@ -48,6 +48,14 @@ _
 | - June 22nd, 2016
 |   Banned from /r/creepy!
 |   | Serial reposters will be banned
+|
+| - June 24th, 2016
+|   First post to break 2,000 karma!
+|   https://www.reddit.com/r/BlackPeopleTwitter/comments/4po9fp/pimp_my_ride/
+|
+| - June 25th, 2016
+|   First post to break 4,000 karma!
+|   https://www.reddit.com/r/Showerthoughts/comments/4ps86d/i_spent_my_early_20s_trying_to_get_new_games_to/
 |
 | - June 26th, 2016
 |   Banned from /r/WTF!
@@ -88,6 +96,10 @@ _
 |
 | - July 3rd, 2016
 |   Banned from /r/AskReddit!
+|
+| - July 4th, 2016
+|   First post to break 6,000 karma!
+|   https://www.reddit.com/r/BlackPeopleTwitter/comments/4r5uau/skateboarding_chicken/
 |
 | - July 5th, 2016
 |   Banned from /r/technology!
