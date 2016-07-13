@@ -125,7 +125,7 @@ _
 ∨
 ```
 
-Total number of bans to date: 27
+Total number of bans to date: 27  
 Highest upvoted post to date: [6,265](https://www.reddit.com/r/BlackPeopleTwitter/comments/4r5uau/skateboarding_chicken/)
 
 ## Installation Instructions
