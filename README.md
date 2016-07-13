@@ -126,6 +126,7 @@ _
 ```
 
 Total number of bans to date: 27
+Highest upvoted post to date: [6,265](https://www.reddit.com/r/BlackPeopleTwitter/comments/4r5uau/skateboarding_chicken/)
 
 ## Installation Instructions
 Before running the application you will need to create your own `lib/credentials.js` file. We supplied an example file `credentials.js.example` that is filled with fake values.
