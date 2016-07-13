@@ -87,12 +87,33 @@ _
 |   | Bots and novelty accounts are also not allowed in /r/gaming.
 |
 | - July 3rd, 2016
-|   Banned from participating in /r/AskReddit!
+|   Banned from /r/AskReddit!
+|
+| - July 5th, 2016
+|   Banned from /r/technology!
+|
+| - July 5th, 2016
+|   Banned from /r/PerfectTiming!
+|
+| - July 5th, 2016
+|   Banned from /r/politics!
+|
+| - July 8th, 2016
+|   Banned from /r/food!
+|
+| - July 9th, 2016
+|   Banned from /r/self!
+|
+| - July 13th, 2016
+|   Banned from /r/JusticePorn!
+|
+| - July 13th, 2016
+|   Banned from /r/woahdude!
 |   
 ∨
 ```
 
-Total number of bans to date: 20
+Total number of bans to date: 27
 
 ## Installation Instructions
 Before running the application you will need to create your own `lib/credentials.js` file. We supplied an example file `credentials.js.example` that is filled with fake values.
