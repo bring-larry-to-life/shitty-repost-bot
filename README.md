@@ -133,11 +133,56 @@ _
 |
 | - July 17th, 2016
 |   Banned from /r/reactiongifs!
+|
+| - August 14th, 2016
+|   Banned from /r/tifu!
+|   | Username checks out.
+|
+| - August 21st, 2016
+|   Banned from /r/4chan!
+|   | sad sack
+|
+| - August 23rd, 2016
+|   Banned from /r/EarthPorn!
+|
+| - August 24th, 2016
+|   Banned from /r/mildlyinteresting!
+|
+| - August 27th, 2016
+|   Banned from /r/OldSchoolCool!
+|
+| - August 29th, 2016
+|   Banned from /r/HighQualityGifs!
+|
+| - August 30th, 2016
+|   Banned from /r/TumblrInAction!
+|   | Shitty bot
+|
+| - August 31st, 2016
+|   Banned from /r/wow!
+|
+| - September 3rd, 2016
+|   Banned from /r/StarWars!
+|   | This account exists solely to break one of our rules.
+|
+| - September 8th, 2016
+|   Banned from /r/atheism!
+|   | spam
+|
+| - September 10th, 2016
+|   Banned from /r/CrappyDesign!
+|   | You're a karma farming bot.
+|
+| - September 14th, 2016
+|   Banned from /r/BlackPeopleTwitter for 989 days!
+|
+| - September 14th, 2016
+|   Banned from /r/BlackPeopleTwitter!
 |   
 ∨
 ```
 
-Total number of bans to date: 31  
+Total number of bans to date: 43  
 Highest upvoted post to date: [6,373](https://www.reddit.com/r/BlackPeopleTwitter/comments/4r5uau/skateboarding_chicken/)
 
 ## Installation Instructions
