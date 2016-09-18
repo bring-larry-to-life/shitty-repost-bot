@@ -227,6 +227,6 @@ jobs.createJob('*/20 * * * *', function() {});
 ```
 Feel free to comment it out if you do not plan on running this bot on a Raspberry Pi.
 
-Here are some links that cover the issue in more detail:
-https://www.raspberrypi.org/forums/viewtopic.php?f=34&t=128624&start=25
+Here are some links that cover the issue in more detail:  
+https://www.raspberrypi.org/forums/viewtopic.php?f=34&t=128624&start=25  
 https://github.com/nodejs/node/issues/4262
